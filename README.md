@@ -1,6 +1,6 @@
-#CSC-411 Databases Assignment #4, Problem 5.12
+# CSC-411 Databases Assignment #4, Problem 5.12
 ***
-###(I spent too much time on this...got carried away)
+### (I spent too much time on this...got carried away)
 
 Problem: Write a Java program that allows university administrators to print the teaching record of an instructor.
 
